@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2 Bonus/Lab2 Bonus.iml" filepath="$PROJECT_DIR$/Lab2 Bonus/Lab2 Bonus.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE116-Lab-Assignments.iml" filepath="$PROJECT_DIR$/SE116-Lab-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestingStuffs/TestingStuffs.iml" filepath="$PROJECT_DIR$/TestingStuffs/TestingStuffs.iml" />
     </modules>
   </component>
 </project>
