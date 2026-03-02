@@ -1,5 +1,5 @@
 
-public class Main {
+public class Main_Inheritance {
     public static void main(String[] args) {
 
         // child class --> subclass, parent class --> superclass
