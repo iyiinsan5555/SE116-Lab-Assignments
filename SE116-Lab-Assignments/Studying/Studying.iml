@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Collections" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Generic Classes and Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindBinaryRepresentation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
