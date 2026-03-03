@@ -9,7 +9,7 @@ public class FruitShopping {
         //Add options like add fruit, remove fruit, finish shopping
 
         Scanner scanner = new Scanner(System.in);
-        ArrayList<String> myList = new ArrayList<String>();
+        ArrayList<String> myList = new ArrayList<String>(); // You cannot use primitive types to create the ArrayList!
         boolean shouldRun = true;
 
         while (shouldRun) {
