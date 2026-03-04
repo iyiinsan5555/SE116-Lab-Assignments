@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Generic Classes and Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Interfaces" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FindBinaryRepresentation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overflow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
