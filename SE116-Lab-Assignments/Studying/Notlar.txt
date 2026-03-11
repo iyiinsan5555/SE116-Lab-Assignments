@@ -1,0 +1,5 @@
+
+
+Overloading:
+Overriding:
+protected: Makes a property/method accessible to same package and subclasses under the package. But it is not visible to world. So if you call it from default package you cannot access it.
