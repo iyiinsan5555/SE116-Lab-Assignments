@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/LibraryProject/LibraryProject.iml" filepath="$PROJECT_DIR$/Studying/LibraryProject/LibraryProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Packages/Packages.iml" filepath="$PROJECT_DIR$/Studying/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Studying.iml" filepath="$PROJECT_DIR$/Studying/Studying.iml" />
     </modules>
   </component>
