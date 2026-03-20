@@ -1,14 +1,18 @@
-public class Vehicle {
+public class Lab4BonusVehicle {
     private String licencePlate;
     private double dailyRate;
 
-    public Vehicle(String licencePlate, double dailyRate) {
+    public Lab4BonusVehicle(String licencePlate, double dailyRate) {
         this.licencePlate = licencePlate;
         this.dailyRate = dailyRate;
     }
 
     public double calculateRental(int days) {
         return days * dailyRate;
+    }
+
+    public boolean checkRisk() {
+        return false;
     }
 
     public void safetyCheck() {

@@ -1,8 +1,8 @@
-public class Truck extends Vehicle {
+public class Lab4BonusTruck extends Lab4Vehicle {
     private double cargoCapacity;
     private final int MAX_CARGO_CAPACITY = 40;
 
-    public Truck(String licencePlate, double dailyRate, double cargoCapacity) {
+    public Lab4BonusTruck(String licencePlate, double dailyRate, double cargoCapacity) {
         super(licencePlate, dailyRate);
         this.cargoCapacity = cargoCapacity;
     }

@@ -25,7 +25,7 @@ public class SwiftRouteApp {
 
             Shipment shipmentObject = createShipmentObject(shipmentType, trackingNo, contentType, weightKg, distanceKm);
             shipments.put(trackingNo+contentType, shipmentObject);
-            shipmentCount += 1;
+            shipmentCount ++;
 
         }
 
