@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Studying/Comparable/Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" filepath="$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/GeminiQuiz1Scenario/GeminiQuiz1Scenario.iml" filepath="$PROJECT_DIR$/Studying/GeminiQuiz1Scenario/GeminiQuiz1Scenario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab 6 Bonus/Lab 6 Bonus.iml" filepath="$PROJECT_DIR$/Labs/Lab 6 Bonus/Lab 6 Bonus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab 6 Task 2/Lab 6 Task 2.iml" filepath="$PROJECT_DIR$/Labs/Lab 6 Task 2/Lab 6 Task 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Labs/Lab5/Lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Labs/Lab6/Lab6.iml" />
@@ -14,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Studying.iml" filepath="$PROJECT_DIR$/Studying/Studying.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Super Keyword/Super Keyword.iml" filepath="$PROJECT_DIR$/Studying/Super Keyword/Super Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/Testing2/Testing2.iml" filepath="$PROJECT_DIR$/Studying/Testing2/Testing2.iml" />
     </modules>
   </component>
 </project>
