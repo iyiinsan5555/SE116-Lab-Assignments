@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Studying/Comparable/Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" filepath="$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab 6 Task 2/Lab 6 Task 2.iml" filepath="$PROJECT_DIR$/Labs/Lab 6 Task 2/Lab 6 Task 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab5/Lab5.iml" filepath="$PROJECT_DIR$/Labs/Lab5/Lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Labs/Lab6/Lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
