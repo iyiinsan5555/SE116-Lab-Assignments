@@ -4,3 +4,5 @@ Overloading:
 Overriding:
 protected: Makes a property/method accessible to same package and subclasses under the package. But it is not visible to world. So if you call it from default package you cannot access it.
 final: Methods --> subclass cannot override a method if it's a final method, Classes --> You cannot extend a final class, Variables --> to create a constant (cannot be assigned more than once)
+functional interface: an interface that has only one method implementation
+Lambda expressions are not immutable so you can change the variables values but the variable must be final or effectively final.
