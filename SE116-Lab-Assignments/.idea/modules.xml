@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Studying/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Studying/Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercise/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercise/Exercise1/Exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" filepath="$PROJECT_DIR$/Studying/Final_AND_Inheritance/Final_AND_Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/GeminiQuiz1Scenario1/GeminiQuiz1Scenario1.iml" filepath="$PROJECT_DIR$/Studying/GeminiQuiz1Scenario1/GeminiQuiz1Scenario1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/GeminiQuiz1Scenario2/GeminiQuiz1Scenario2.iml" filepath="$PROJECT_DIR$/Studying/GeminiQuiz1Scenario2/GeminiQuiz1Scenario2.iml" />
@@ -16,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/Studying/LibraryProject/LibraryProject.iml" filepath="$PROJECT_DIR$/Studying/LibraryProject/LibraryProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Packages/Packages.iml" filepath="$PROJECT_DIR$/Studying/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Studying/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercise/SE-116-Midterm-Practice-Exercise.iml" filepath="$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercise/SE-116-Midterm-Practice-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercises/SE-116-Midterm-Practice-Exercises.iml" filepath="$PROJECT_DIR$/Studying/SE-116-Midterm-Practice-Exercises/SE-116-Midterm-Practice-Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Studying.iml" filepath="$PROJECT_DIR$/Studying/Studying.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Super Keyword/Super Keyword.iml" filepath="$PROJECT_DIR$/Studying/Super Keyword/Super Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Studying/Testing2/Testing2.iml" filepath="$PROJECT_DIR$/Studying/Testing2/Testing2.iml" />
